@@ -1,25 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este proyecto contiene todos los ejemplos ilustrados en el libro Ruby on Rails Tutorial,
+de la serie Learn Enough del autor Michael Hartl.
 
-Things you may want to cover:
+* Creacion y configuracion de entorno de desarrollo.
 
-* Ruby version
+* Creacion de Hello World.
 
-* System dependencies
+* Configuracion del control de versiones con Git.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # RailsTutorial
